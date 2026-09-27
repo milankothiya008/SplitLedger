@@ -12,7 +12,7 @@ class HelpPage extends StatefulWidget {
 }
 
 class _HelpPageState extends State<HelpPage> {
-  static const _supportEmail = 'codecrafters79@gmail.com';
+  static const _supportEmail = 'studysphere2028@gmail.com';
 
   final _formKey = GlobalKey<FormState>();
   final _subject = TextEditingController();

@@ -66,11 +66,6 @@ class AboutUsPage extends StatelessWidget {
               style: body,
             ),
           ),
-          const SizedBox(height: 24),
-          Center(
-            child: Text('Developed with ❤️ by Team CodeCrafters',
-                style: TextStyle(color: scheme.onSurfaceVariant, fontStyle: FontStyle.italic)),
-          ),
         ],
       ),
     );
